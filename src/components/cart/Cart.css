@@ -1,0 +1,28 @@
+.list-cart {
+    display: grid;
+    grid-template-columns: auto;
+    margin-left: 100px;
+}
+
+h3 {
+    font-family: 'Montserrat';
+    font-size: 2em;
+    text-align: center;
+}
+
+span {
+    float: right;
+    margin: 20px;
+}
+
+.cart {
+    grid-column: -2/3;
+    width: 50%;
+    text-align: center;
+}
+
+.card {
+    margin: 10px;
+    width: 100%;
+    object-fit: cover;
+}

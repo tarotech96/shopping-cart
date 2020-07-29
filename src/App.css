@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: 'Montserrat';
+  color: #3864D4;
+  font-size: 2.5em;
+  margin: 20px;
+  text-align: center;
+}
+
+/* .app {
+  margin-top: -20px;
+  background-color: #211F20;
+} */
